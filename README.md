@@ -1,48 +1,44 @@
 <h1 align="center">Hi 👋, I'm Charudatta Lende</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Full Stack Developer | Java Programmer
+CSE (IoT) Student | Passionate Full Stack Developer | Java Programmer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+Developer;React+%7C+Node.js+%7C+MongoDB;DSA+Learner;Always+Learning+New+Things+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Passionate+Full+Stack+Developer;Java+Developer;React.js+Developer;Learning+DSA+Everyday;Always+Building+Cool+Projects+🚀" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Student
-- 💻 Passionate Full Stack Developer
-- 🌱 Currently learning **DSA, React, Node.js & System Design**
-- 🚀 Building real-world MERN applications
-- 🔥 Interested in Web Development & AI
-- 📍 Nagpur, India
+🎓 I'm a **Computer Science Engineering (IoT)** student.
 
-<br>
+💻 Passionate about **Full Stack Web Development**.
 
-## 🌐 Connect With Me
+🌱 Currently learning **Data Structures & Algorithms**.
+
+🚀 Building projects using **React.js, JavaScript & Java**.
+
+📚 Exploring Backend Development and modern web technologies.
+
+🎯 Goal: Become a Software Engineer.
+
+⚡ Fun Fact: I love solving coding problems and building useful applications.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN">
+<img src="www.linkedin.com/in/charudatta-lende-812009326"/>
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
 
 </p>
 
@@ -53,53 +49,41 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,javascript,cpp,c" />
-
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### Backend
+### Development Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Database
+---
 
-<p>
+# 🚀 Current Focus
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-
-</p>
+- 🌱 Learning Data Structures & Algorithms
+- 💻 Building Full Stack Projects
+- ⚛️ Improving React.js Skills
+- 📖 Exploring Backend Development
+- ☁️ Learning Git & GitHub Best Practices
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 💬 Chat App | Real-time Chat Application | React + Firebase |
-| 🏠 House Planner | House Design Planner | React |
-| 📦 CRUD API | REST API | Node + Express + MongoDB |
-| 💼 Portfolio Website | Personal Portfolio | React |
+| Project | Tech Stack |
+|----------|------------|
+| 💬 Chat Application | React + Firebase |
+| 🏠 House Planner | React |
+| 📦 CRUD API | JavaScript |
+| 🌐 Portfolio Website | React |
 
 ---
 
@@ -107,15 +91,15 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
 
@@ -135,7 +119,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -149,13 +133,13 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
 
-# 💡 Quote
+# ✨ Quote
 
 <p align="center">
 
@@ -165,8 +149,8 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
-<p align="center">
+<h3 align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! ⭐
 
-</p>
+</h3>
