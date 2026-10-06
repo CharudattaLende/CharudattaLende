@@ -22,7 +22,7 @@
 
     <!-- title bar -->
     <text x="40" y="52" font-size="22" fill="#ffe45e" filter="url(#glow)">▌PLAYER ONE ▐</text>
-    <text x="860" y="52" font-size="14" fill="#58a6ff" text-anchor="end">CLASS: FULL-STACK ARTIFICER   •   LVL 04</text>
+    <text x="860" y="52" font-size="14" fill="#58a6ff" text-anchor="end">CLASS: CSE ENGINEER   •   FULL-STACK / AI / IoT</text>
     <line x1="30" y1="66" x2="870" y2="66" stroke="#30363d" stroke-width="2"/>
 
     <!-- avatar frame -->
@@ -84,7 +84,7 @@
       <rect x="352" y="94" width="0" height="12" fill="url(#barA)">
         <animate attributeName="width" values="0;256;256" keyTimes="0;0.25;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="770" y="105" fill="#00e5ff">LV 65</text>
+      <text x="770" y="105" fill="#00e5ff"></text>
 
       <!-- 2 Frontend -->
       <text x="190" y="144" fill="#e6edf3">FRONTEND · REACT</text>
@@ -92,7 +92,7 @@
       <rect x="352" y="134" width="0" height="12" fill="url(#barB)">
         <animate attributeName="width" values="0;296;296" keyTimes="0;0.3;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="770" y="145" fill="#ff7ac6">LV 75</text>
+      <text x="770" y="145" fill="#ff7ac6"></text>
 
       <!-- 3 Backend -->
       <text x="190" y="184" fill="#e6edf3">BACKEND · NODE</text>
@@ -100,7 +100,7 @@
       <rect x="352" y="174" width="0" height="12" fill="url(#barC)">
         <animate attributeName="width" values="0;276;276" keyTimes="0;0.35;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="770" y="185" fill="#ffe45e">LV 70</text>
+      <text x="770" y="185" fill="#ffe45e"></text>
 
       <!-- 4 Databases -->
       <text x="190" y="224" fill="#e6edf3">DATABASES · MONGO</text>
@@ -108,7 +108,7 @@
       <rect x="352" y="214" width="0" height="12" fill="url(#barD)">
         <animate attributeName="width" values="0;256;256" keyTimes="0;0.4;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="770" y="225" fill="#3ddc84">LV 65</text>
+      <text x="770" y="225" fill="#3ddc84"></text>
 
       <!-- 5 AI/ML -->
       <text x="190" y="264" fill="#e6edf3">AI / ML · LLMs</text>
@@ -116,7 +116,7 @@
       <rect x="352" y="254" width="0" height="12" fill="url(#barB)">
         <animate attributeName="width" values="0;176;176" keyTimes="0;0.45;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="770" y="265" fill="#ff7ac6">LV 45</text>
+      <text x="770" y="265" fill="#ff7ac6"></text>
 
       <!-- 6 IoT -->
       <text x="190" y="304" fill="#e6edf3">IoT · ESP32</text>
@@ -124,7 +124,7 @@
       <rect x="352" y="294" width="0" height="12" fill="url(#barA)">
         <animate attributeName="width" values="0;236;236" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="770" y="305" fill="#00e5ff">LV 60</text>
+      <text x="770" y="305" fill="#00e5ff"></text>
     </g>
 
     <!-- active quest strip -->
