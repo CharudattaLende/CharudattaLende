@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Charudatta — CSE (IoT) • Full-Stack • AI/ML • DSA Grinder. Press start." />
+<img src="./header.svg" width="100%" alt="Charudatta — CSE (IoT) • Full-Stack • AI/ML • DSA Grinder. Press start." />
 
 <br/>
 
@@ -24,7 +24,7 @@
 ## 🎮 `PLAYER_ONE.sav`
 
 <div align="center">
-<img src="./assets/character-sheet.svg" width="100%" alt="RPG-style character sheet: Charudatta, Full-Stack Artificer, with animated stat bars for DSA, frontend, backend, databases, AI/ML and IoT." />
+<img src="./character-sheet.svg" width="100%" alt="RPG-style character sheet: Charudatta, Full-Stack Artificer, with animated stat bars for DSA, frontend, backend, databases, AI/ML and IoT." />
 </div>
 
 <br/>
