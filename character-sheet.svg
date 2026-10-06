@@ -1,146 +1,50 @@
-V<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b0e17"/>
       <stop offset="1" stop-color="#150a2e"/>
     </linearGradient>
-
-    <linearGradient id="barA" x1="0" x2="1">
-      <stop offset="0" stop-color="#00e5ff"/>
-      <stop offset="1" stop-color="#1f6feb"/>
-    </linearGradient>
-
-    <linearGradient id="barB" x1="0" x2="1">
-      <stop offset="0" stop-color="#ff2e93"/>
-      <stop offset="1" stop-color="#a45cff"/>
-    </linearGradient>
-
-    <linearGradient id="barC" x1="0" x2="1">
-      <stop offset="0" stop-color="#ffe45e"/>
-      <stop offset="1" stop-color="#ff7a45"/>
-    </linearGradient>
-
-    <linearGradient id="barD" x1="0" x2="1">
-      <stop offset="0" stop-color="#3ddc84"/>
-      <stop offset="1" stop-color="#00b894"/>
-    </linearGradient>
-
+    <linearGradient id="barA" x1="0" x2="1"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#1f6feb"/></linearGradient>
+    <linearGradient id="barB" x1="0" x2="1"><stop offset="0" stop-color="#ff2e93"/><stop offset="1" stop-color="#a45cff"/></linearGradient>
+    <linearGradient id="barC" x1="0" x2="1"><stop offset="0" stop-color="#ffe45e"/><stop offset="1" stop-color="#ff7a45"/></linearGradient>
+    <linearGradient id="barD" x1="0" x2="1"><stop offset="0" stop-color="#3ddc84"/><stop offset="1" stop-color="#00b894"/></linearGradient>
     <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="2.5" result="b"/>
-      <feMerge>
-        <feMergeNode in="b"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
 
-  <!-- Background -->
   <rect width="900" height="400" fill="url(#bg)"/>
-
-  <!-- Outer borders -->
-  <rect
-    x="6"
-    y="6"
-    width="888"
-    height="388"
-    fill="none"
-    stroke="#1f6feb"
-    stroke-width="3"
-  />
-
-  <rect
-    x="14"
-    y="14"
-    width="872"
-    height="372"
-    fill="none"
-    stroke="#a45cff"
-    stroke-width="1"
-    stroke-dasharray="6 6"
-    opacity="0.6"
-  />
+  <rect x="6" y="6" width="888" height="388" fill="none" stroke="#1f6feb" stroke-width="3"/>
+  <rect x="14" y="14" width="872" height="372" fill="none" stroke="#a45cff" stroke-width="1" stroke-dasharray="6 6" opacity="0.6"/>
 
   <g font-family="'Courier New', Consolas, monospace" font-weight="bold">
 
-    <!-- ==================== TITLE ==================== -->
+    <!-- title bar -->
+    <text x="40" y="52" font-size="22" fill="#ffe45e" filter="url(#glow)">▌PLAYER ONE ▐</text>
+    <text x="860" y="52" font-size="14" fill="#58a6ff" text-anchor="end">CLASS: FULL-STACK ARTIFICER   •   LVL 04</text>
+    <line x1="30" y1="66" x2="870" y2="66" stroke="#30363d" stroke-width="2"/>
 
-    <text
-      x="40"
-      y="52"
-      font-size="22"
-      fill="#ffe45e"
-      filter="url(#glow)"
-    >
-      ▌PLAYER ONE ▐
-    </text>
-
-    <text
-      x="860"
-      y="52"
-      font-size="14"
-      fill="#58a6ff"
-      text-anchor="end"
-    >
-      CLASS: CSE ENGINEER • FULL-STACK / AI / IoT
-    </text>
-
-    <line
-      x1="30"
-      y1="66"
-      x2="870"
-      y2="66"
-      stroke="#30363d"
-      stroke-width="2"
-    />
-
-    <!-- ==================== AVATAR ==================== -->
-
-    <rect
-      x="34"
-      y="84"
-      width="124"
-      height="124"
-      fill="#07030f"
-      stroke="#58a6ff"
-      stroke-width="2"
-    />
-
+    <!-- avatar frame -->
+    <rect x="34" y="84" width="124" height="124" fill="#07030f" stroke="#58a6ff" stroke-width="2"/>
     <g>
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0,0;0,-4;0,0"
-        dur="1.2s"
-        repeatCount="indefinite"
-      />
-
-      <!-- Hood -->
+      <animateTransform attributeName="transform" type="translate" values="0,0;0,-4;0,0" dur="1.2s" repeatCount="indefinite"/>
+      <!-- hood -->
       <g fill="#1f6feb">
         <rect x="72" y="100" width="32" height="8"/>
         <rect x="64" y="108" width="48" height="8"/>
-
-        <rect x="64" y="116" width="8" height="8"/>
-        <rect x="104" y="116" width="8" height="8"/>
-
-        <rect x="64" y="124" width="8" height="8"/>
-        <rect x="104" y="124" width="8" height="8"/>
-
-        <rect x="64" y="132" width="8" height="8"/>
-        <rect x="104" y="132" width="8" height="8"/>
+        <rect x="64" y="116" width="8" height="8"/><rect x="104" y="116" width="8" height="8"/>
+        <rect x="64" y="124" width="8" height="8"/><rect x="104" y="124" width="8" height="8"/>
+        <rect x="64" y="132" width="8" height="8"/><rect x="104" y="132" width="8" height="8"/>
       </g>
-
-      <!-- Face -->
+      <!-- face -->
       <g fill="#ffcf9f">
         <rect x="72" y="116" width="32" height="24"/>
       </g>
-
-      <!-- Eyes -->
       <g fill="#0b0e17">
-        <rect x="72" y="124" width="8" height="8"/>
-        <rect x="96" y="124" width="8" height="8"/>
+        <rect x="72" y="124" width="8" height="8"/><rect x="96" y="124" width="8" height="8"/>
       </g>
-
-      <!-- Body -->
+      <!-- body -->
       <g fill="#58a6ff">
         <rect x="64" y="140" width="48" height="8"/>
         <rect x="56" y="148" width="64" height="8"/>
@@ -148,407 +52,87 @@ V<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" heigh
         <rect x="56" y="164" width="64" height="8"/>
         <rect x="64" y="172" width="48" height="8"/>
       </g>
-
-      <!-- Arms -->
-      <g fill="#ffcf9f">
-        <rect x="48" y="156" width="8" height="8"/>
-        <rect x="120" y="156" width="8" height="8"/>
-      </g>
-
-      <!-- Developer symbol -->
-      <text
-        x="88"
-        y="172"
-        font-size="10"
-        fill="#0b0e17"
-        text-anchor="middle"
-      >
-        &lt;/&gt;
-      </text>
-
-      <!-- Legs -->
+      <g fill="#ffcf9f"><rect x="48" y="156" width="8" height="8"/><rect x="120" y="156" width="8" height="8"/></g>
+      <text x="88" y="172" font-size="10" fill="#0b0e17" text-anchor="middle">&lt;/&gt;</text>
+      <!-- legs -->
       <g fill="#30363d">
-        <rect x="64" y="180" width="16" height="16"/>
-        <rect x="96" y="180" width="16" height="16"/>
+        <rect x="64" y="180" width="16" height="16"/><rect x="96" y="180" width="16" height="16"/>
       </g>
     </g>
 
-    <!-- ==================== HP / MP / XP ==================== -->
-
-    <!-- HP -->
-    <text
-      x="34"
-      y="236"
-      font-size="12"
-      fill="#ff5c7a"
-    >
-      HP
-    </text>
-
-    <rect
-      x="62"
-      y="226"
-      width="96"
-      height="10"
-      fill="#1a1f2b"
-      stroke="#ff5c7a"
-    />
-
-    <rect
-      x="63"
-      y="227"
-      width="94"
-      height="8"
-      fill="#ff5c7a"
-    />
-
-    <!-- MP -->
-    <text
-      x="34"
-      y="256"
-      font-size="12"
-      fill="#58a6ff"
-    >
-      MP
-    </text>
-
-    <rect
-      x="62"
-      y="246"
-      width="96"
-      height="10"
-      fill="#1a1f2b"
-      stroke="#58a6ff"
-    />
-
-    <rect
-      x="63"
-      y="247"
-      width="70"
-      height="8"
-      fill="#58a6ff"
-    >
-      <animate
-        attributeName="width"
-        values="70;40;70"
-        dur="4s"
-        repeatCount="indefinite"
-      />
+    <!-- HP / MP / XP -->
+    <text x="34" y="236" font-size="12" fill="#ff5c7a">HP</text>
+    <rect x="62" y="226" width="96" height="10" fill="#1a1f2b" stroke="#ff5c7a"/>
+    <rect x="63" y="227" width="94" height="8" fill="#ff5c7a"/>
+    <text x="34" y="256" font-size="12" fill="#58a6ff">MP</text>
+    <rect x="62" y="246" width="96" height="10" fill="#1a1f2b" stroke="#58a6ff"/>
+    <rect x="63" y="247" width="70" height="8" fill="#58a6ff">
+      <animate attributeName="width" values="70;40;70" dur="4s" repeatCount="indefinite"/>
     </rect>
-
-    <!-- XP -->
-    <text
-      x="34"
-      y="276"
-      font-size="12"
-      fill="#ffe45e"
-    >
-      XP
-    </text>
-
-    <rect
-      x="62"
-      y="266"
-      width="96"
-      height="10"
-      fill="#1a1f2b"
-      stroke="#ffe45e"
-    />
-
-    <rect
-      x="63"
-      y="267"
-      width="0"
-      height="8"
-      fill="#ffe45e"
-    >
-      <animate
-        attributeName="width"
-        values="0;70;70"
-        keyTimes="0;0.5;1"
-        dur="5s"
-        repeatCount="indefinite"
-      />
+    <text x="34" y="276" font-size="12" fill="#ffe45e">XP</text>
+    <rect x="62" y="266" width="96" height="10" fill="#1a1f2b" stroke="#ffe45e"/>
+    <rect x="63" y="267" width="0" height="8" fill="#ffe45e">
+      <animate attributeName="width" values="0;70;70" keyTimes="0;0.5;1" dur="5s" repeatCount="indefinite"/>
     </rect>
+    <text x="96" y="304" font-size="11" fill="#8b949e" text-anchor="middle">☕ coffee: 87%</text>
 
-    <text
-      x="96"
-      y="304"
-      font-size="11"
-      fill="#8b949e"
-      text-anchor="middle"
-    >
-      ☕ coffee: 87%
-    </text>
-
-    <!-- ==================== SKILL BARS ==================== -->
-
+    <!-- stat bars -->
     <g font-size="14">
-
-      <!-- DSA -->
-      <text
-        x="190"
-        y="104"
-        fill="#e6edf3"
-      >
-        DSA · JAVA
-      </text>
-
-      <rect
-        x="350"
-        y="92"
-        width="400"
-        height="16"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"
-      />
-
-      <rect
-        x="352"
-        y="94"
-        width="0"
-        height="12"
-        fill="url(#barA)"
-      >
-        <animate
-          attributeName="width"
-          values="0;256;256"
-          keyTimes="0;0.25;1"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+      <!-- 1 DSA -->
+      <text x="190" y="104" fill="#e6edf3">DSA · JAVA</text>
+      <rect x="350" y="92" width="400" height="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+      <rect x="352" y="94" width="0" height="12" fill="url(#barA)">
+        <animate attributeName="width" values="0;256;256" keyTimes="0;0.25;1" dur="7s" repeatCount="indefinite"/>
       </rect>
+      <text x="770" y="105" fill="#00e5ff">LV 65</text>
 
-
-      <!-- Frontend -->
-      <text
-        x="190"
-        y="144"
-        fill="#e6edf3"
-      >
-        FRONTEND · REACT
-      </text>
-
-      <rect
-        x="350"
-        y="132"
-        width="400"
-        height="16"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"
-      />
-
-      <rect
-        x="352"
-        y="134"
-        width="0"
-        height="12"
-        fill="url(#barB)"
-      >
-        <animate
-          attributeName="width"
-          values="0;296;296"
-          keyTimes="0;0.3;1"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+      <!-- 2 Frontend -->
+      <text x="190" y="144" fill="#e6edf3">FRONTEND · REACT</text>
+      <rect x="350" y="132" width="400" height="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+      <rect x="352" y="134" width="0" height="12" fill="url(#barB)">
+        <animate attributeName="width" values="0;296;296" keyTimes="0;0.3;1" dur="7s" repeatCount="indefinite"/>
       </rect>
+      <text x="770" y="145" fill="#ff7ac6">LV 75</text>
 
-
-      <!-- Backend -->
-      <text
-        x="190"
-        y="184"
-        fill="#e6edf3"
-      >
-        BACKEND · NODE
-      </text>
-
-      <rect
-        x="350"
-        y="172"
-        width="400"
-        height="16"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"
-      />
-
-      <rect
-        x="352"
-        y="174"
-        width="0"
-        height="12"
-        fill="url(#barC)"
-      >
-        <animate
-          attributeName="width"
-          values="0;276;276"
-          keyTimes="0;0.35;1"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+      <!-- 3 Backend -->
+      <text x="190" y="184" fill="#e6edf3">BACKEND · NODE</text>
+      <rect x="350" y="172" width="400" height="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+      <rect x="352" y="174" width="0" height="12" fill="url(#barC)">
+        <animate attributeName="width" values="0;276;276" keyTimes="0;0.35;1" dur="7s" repeatCount="indefinite"/>
       </rect>
+      <text x="770" y="185" fill="#ffe45e">LV 70</text>
 
-
-      <!-- Databases -->
-      <text
-        x="190"
-        y="224"
-        fill="#e6edf3"
-      >
-        DATABASES · SQL / MONGO
-      </text>
-
-      <rect
-        x="350"
-        y="212"
-        width="400"
-        height="16"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"
-      />
-
-      <rect
-        x="352"
-        y="214"
-        width="0"
-        height="12"
-        fill="url(#barD)"
-      >
-        <animate
-          attributeName="width"
-          values="0;256;256"
-          keyTimes="0;0.4;1"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+      <!-- 4 Databases -->
+      <text x="190" y="224" fill="#e6edf3">DATABASES · MONGO</text>
+      <rect x="350" y="212" width="400" height="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+      <rect x="352" y="214" width="0" height="12" fill="url(#barD)">
+        <animate attributeName="width" values="0;256;256" keyTimes="0;0.4;1" dur="7s" repeatCount="indefinite"/>
       </rect>
+      <text x="770" y="225" fill="#3ddc84">LV 65</text>
 
-
-      <!-- AI / ML -->
-      <text
-        x="190"
-        y="264"
-        fill="#e6edf3"
-      >
-        AI / ML · LLMs
-      </text>
-
-      <rect
-        x="350"
-        y="252"
-        width="400"
-        height="16"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"
-      />
-
-      <rect
-        x="352"
-        y="254"
-        width="0"
-        height="12"
-        fill="url(#barB)"
-      >
-        <animate
-          attributeName="width"
-          values="0;176;176"
-          keyTimes="0;0.45;1"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+      <!-- 5 AI/ML -->
+      <text x="190" y="264" fill="#e6edf3">AI / ML · LLMs</text>
+      <rect x="350" y="252" width="400" height="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+      <rect x="352" y="254" width="0" height="12" fill="url(#barB)">
+        <animate attributeName="width" values="0;176;176" keyTimes="0;0.45;1" dur="7s" repeatCount="indefinite"/>
       </rect>
+      <text x="770" y="265" fill="#ff7ac6">LV 45</text>
 
-
-      <!-- IoT -->
-      <text
-        x="190"
-        y="304"
-        fill="#e6edf3"
-      >
-        IoT · ESP32
-      </text>
-
-      <rect
-        x="350"
-        y="292"
-        width="400"
-        height="16"
-        fill="#0d1117"
-        stroke="#30363d"
-        stroke-width="2"
-      />
-
-      <rect
-        x="352"
-        y="294"
-        width="0"
-        height="12"
-        fill="url(#barA)"
-      >
-        <animate
-          attributeName="width"
-          values="0;236;236"
-          keyTimes="0;0.5;1"
-          dur="7s"
-          repeatCount="indefinite"
-        />
+      <!-- 6 IoT -->
+      <text x="190" y="304" fill="#e6edf3">IoT · ESP32</text>
+      <rect x="350" y="292" width="400" height="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+      <rect x="352" y="294" width="0" height="12" fill="url(#barA)">
+        <animate attributeName="width" values="0;236;236" keyTimes="0;0.5;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-
+      <text x="770" y="305" fill="#00e5ff">LV 60</text>
     </g>
 
-    <!-- ==================== ACTIVE QUEST ==================== -->
-
-    <rect
-      x="30"
-      y="334"
-      width="840"
-      height="40"
-      fill="#07030f"
-      stroke="#ffe45e"
-      stroke-width="2"
-    />
-
-    <text
-      x="48"
-      y="359"
-      font-size="14"
-      fill="#ffe45e"
-    >
-      ACTIVE QUEST ▸
-    </text>
-
-    <text
-      x="196"
-      y="359"
-      font-size="14"
-      fill="#e6edf3"
-    >
-      Crack placements • Build a personal LLM • Level up Java DSA
-    </text>
-
-    <!-- Blinking cursor -->
-    <rect
-      x="842"
-      y="350"
-      width="10"
-      height="16"
-      fill="#ffe45e"
-    >
-      <animate
-        attributeName="opacity"
-        values="1;1;0;0;1"
-        keyTimes="0;0.5;0.5;0.75;0.75"
-        dur="1s"
-        repeatCount="indefinite"
-        calcMode="discrete"
-      />
+    <!-- active quest strip -->
+    <rect x="30" y="334" width="840" height="40" fill="#07030f" stroke="#ffe45e" stroke-width="2"/>
+    <text x="48" y="359" font-size="14" fill="#ffe45e">ACTIVE QUEST ▸</text>
+    <text x="196" y="359" font-size="14" fill="#e6edf3">Crack placements  •  Ship the MERN job portal  •  Level up Java DSA</text>
+    <rect x="842" y="350" width="10" height="16" fill="#ffe45e">
+      <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;0.75;0.75" dur="1s" repeatCount="indefinite" calcMode="discrete"/>
     </rect>
-
   </g>
 </svg>
