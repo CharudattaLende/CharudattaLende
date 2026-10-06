@@ -1,10 +1,10 @@
-<<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=header&text=&fontSize=0" width="100%" alt="" />
 
 <h1>Hi, I'm Charudatta 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=CSE+(IoT)+%E2%80%A2+Full-Stack+Developer;AI%2FML+Explorer+%E2%80%A2+LLM+Learner;Building+real-world+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=CSE+(IoT)+%E2%80%A2+Full-Stack+Developer;AI%2FML+Explorer+%E2%80%A2+LLM+Learner;Building+real-world+systems;PRESS+START+TO+BUILD+%E2%96%B6" alt="Typing SVG" />
 
 <br/>
 
@@ -53,22 +53,6 @@ software engineering opportunities • MS abroad
 
 <br/>
 
-## `~/current-focus`
-
-<div align="center">
-
-| 🟦 **CURRENT FOCUS** | Status |
-|:---------------------|:------:|
-| ◉ Full-Stack Engineering | `ACTIVE` |
-| ◉ DSA with Java | `ACTIVE` |
-| ◉ AI / LLM Engineering | `LEARNING` |
-| ◉ Computer Vision + IoT | `EXPLORING` |
-| ◉ Cloud & DevOps | `EXPLORING` |
-
-</div>
-
-<br/>
-
 ## `~/stack`
 
 <div align="center">
@@ -88,64 +72,4 @@ software engineering opportunities • MS abroad
 **AI / ML**<br/>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI / ML" />
 
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-## `~/system-status`
-
-<div align="center">
-
-```
-┌──────────────────────────────┐
-│ ▸ MODE        learning+building │
-│ ▸ FOCUS       fullstack · AI    │
-│ ▸ LANGUAGE    Java · Python     │
-│ ▸ INTERESTS   CV · IoT · LLMs   │
-│ ▸ STATUS      ● online          │
-└──────────────────────────────┘
-```
-
-</div>
-
-<br/>
-
-## `~/analytics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CharudattaLende&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharudattaLende&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=CharudattaLende&theme=github-dark-blue&hide_border=true&background=0D1117" width="70%" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CharudattaLende&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-
-</div>
-
-<br/>
-
-## `~/trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CharudattaLende&theme=darkhub&no-frame=true&no-bg=true&row=1&column=4&margin-w=8" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>⚡ Open to opportunities · Let's build something</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer&text=&fontSize=0" width="100%" alt="" />
-
-</div>
+**Tools
