@@ -24,7 +24,7 @@
 ## 🎮 `PLAYER_ONE.sav`
 
 <div align="center">
-<img src="./character-sheet.svg" width="100%" alt="RPG-style character sheet: Charudatta, Full-Stack Artificer, with animated stat bars for DSA, frontend, backend, databases, AI/ML and IoT." />
+<img src="https://raw.githubusercontent.com/CharudattaLende/CharudattaLende/main/character-sheet.svg" width="100%" alt="RPG-style character sheet: Charudatta, CSE Engineer, Full-Stack, AI and IoT." />
 </div>
 
 <br/>
