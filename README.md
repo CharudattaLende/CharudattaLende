@@ -46,16 +46,6 @@ software engineering opportunities • MS abroad
 
 ## 🗺️ `QUEST_LOG`
 
-<!-- TODO: add repo / live-demo links to each quest once you pick which ones to feature -->
-
-| Quest | Status | Loot (tech) | What I built |
-|:--|:--:|:--|:--|
-| 💬 **Real-time Chat App** | ✅ `DEPLOYED` | `React` `Vite` `Firebase` `Firestore` `Vercel` | Went past the tutorial: Instagram-style **message requests**, prefix-based **username search** using Firestore range queries, a repainted UI with micro-animations. |
-| 💼 **MERN Job Portal** | ⚔️ `IN PROGRESS` | `React` `Tailwind` `Node` `Express` `MongoDB` `Mongoose` | Client side is up. Boss fight now: **REST APIs + authentication** on the backend. |
-| 📡 **WiFi Presence Detection** | 🔮 `SIDE QUEST` | `ESP32` `CSI data` `IoT` | Sensing whether a human is in a room from WiFi signal data. Where IoT meets ML. |
-| 🧮 **Java DSA Grind** | 🔁 `DAILY` | `Java` `Arrays` `Trees` `Graphs` `DP` | One pattern at a time, aiming for interview-ready problem solving. |
-
-<br/>
 
 ## 🛡️ `INVENTORY` (tech stack)
 
