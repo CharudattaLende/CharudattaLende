@@ -44,7 +44,6 @@ software engineering opportunities • MS abroad
 
 <br/>
 
-## 🗺️ `QUEST_LOG`
 
 
 ## 🛡️ `INVENTORY` (tech stack)
@@ -73,20 +72,7 @@ software engineering opportunities • MS abroad
 
 <br/>
 
-## 🏆 `ACHIEVEMENTS & SCOREBOARD`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CharudattaLende&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=CharudattaLende&theme=synthwave&hide_border=true&background=0d1117" alt="GitHub streak" />
-
-<br/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharudattaLende&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-</div>
-
-<br/>
+ 
 
 ## 🐍 `CONTRIBUTION SNAKE` (it eats my commits)
 
