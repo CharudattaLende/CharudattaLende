@@ -46,8 +46,6 @@ software engineering opportunities • MS abroad
 
 
 
-## 🛡️ `INVENTORY` (tech stack)
-
 <div align="center">
 
 **⚔️ Languages**<br/>
