@@ -76,14 +76,16 @@ I also enjoy working with AI/ML, LLMs and AI agents, solving Data Structures & A
 
 ---
 
-## 📊 GitHub Contribution Calendar
+## 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<!-- This heatmap is generated from the contribution activity on the GitHub profile. -->
-<img src="https://ghchart.rshah.org/409ba5/CharudattaLende" width="100%" alt="Live GitHub contribution calendar for CharudattaLende" />
+<!-- Live line graph generated from CharudattaLende's GitHub activity. -->
+<a href="https://github.com/CharudattaLende">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharudattaLende&bg_color=000000&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Charudatta's%20Contribution%20Graph&days=31&height=300" width="100%" alt="Charudatta's GitHub contribution activity line graph" />
+</a>
 
-<p><a href="https://github.com/CharudattaLende">Open the original GitHub profile contribution calendar →</a></p>
+<p><sub>Live activity graph · Last 31 days · Click the graph to visit my GitHub profile</sub></p>
 
 </div>
 
