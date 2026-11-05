@@ -80,12 +80,10 @@ I also enjoy working with AI/ML, LLMs and AI agents, solving Data Structures & A
 
 <div align="center">
 
-<!-- Activity graph using the project's documented, minimal URL format. -->
-<a href="https://github.com/CharudattaLende">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharudattaLende&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Charudatta's GitHub contribution activity graph" />
-</a>
+<!-- Self-hosted SVG generated from GitHub's contribution calendar by GitHub Actions. -->
+<img src="https://raw.githubusercontent.com/CharudattaLende/CharudattaLende/main/assets/contribution-graph.svg" width="100%" alt="Charudatta's GitHub contribution line graph" />
 
-<p><sub>Live GitHub activity · Last 31 days</sub></p>
+<p><sub>Automatically refreshed daily from real GitHub contribution data.</sub></p>
 
 </div>
 
