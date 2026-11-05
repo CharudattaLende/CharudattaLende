@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Two hands reaching toward each other</title><desc id="desc">A classical chiaroscuro illustration of two hands almost touching against a black background.</desc>
+<defs><linearGradient id="skin" x2="0" y2="1"><stop stop-color="#f1d3bd"/><stop offset=".5" stop-color="#c99c83"/><stop offset="1" stop-color="#785747"/></linearGradient><linearGradient id="arm" x2="0" y2="1"><stop stop-color="#d9b49d"/><stop offset="1" stop-color="#876653"/></linearGradient></defs>
+<rect width="1200" height="300" fill="#050505"/>
+<g fill="url(#arm)" stroke="#39271f" stroke-width="4" stroke-linejoin="round">
+<path d="M0 38 C85 16 168 12 250 27 C323 39 373 62 427 81 L510 112 C537 123 551 143 541 159 C531 174 510 169 491 159 L425 128 C382 114 350 116 316 127 C254 147 190 169 120 181 L0 202 Z"/>
+<path d="M1200 42 C1114 18 1044 16 970 28 C898 39 846 59 787 78 L700 105 C672 114 654 132 661 149 C668 165 692 165 713 156 L784 129 C831 115 866 119 900 132 C972 158 1040 177 1102 183 L1200 197 Z"/>
+</g>
+<g fill="url(#skin)" stroke="#4a3025" stroke-width="3.2" stroke-linejoin="round">
+<!-- left palm and fingers -->
+<path d="M310 34 C345 31 378 47 407 67 L472 102 C495 114 516 130 527 147 C535 160 530 174 519 178 C508 182 496 173 484 162 L444 130 C463 151 475 174 474 192 C473 208 459 215 447 206 C438 199 431 182 420 166 C428 190 427 214 414 222 C400 229 388 216 382 200 L364 158 C369 182 362 201 348 205 C334 208 324 194 320 178 L305 129 C297 108 291 83 294 62 C296 47 300 38 310 34 Z"/>
+<!-- right palm and pointing hand -->
+<path d="M892 42 C859 40 831 50 801 64 L743 92 C719 103 696 114 681 129 C670 141 673 156 684 162 C696 169 711 159 728 150 L785 121 C765 139 749 157 746 176 C743 192 755 202 768 196 C780 191 792 174 806 160 C792 181 786 202 795 214 C805 227 821 218 831 204 L856 166 C845 189 850 207 864 211 C879 214 889 198 895 183 L918 133 C929 111 934 87 926 66 C920 50 908 43 892 42 Z"/>
+</g>
+<g fill="none" stroke="#6e4b3b" stroke-width="3" opacity=".8" stroke-linecap="round">
+<path d="M316 52 C352 57 378 79 410 96 M331 92 C364 106 390 124 414 146 M359 145 C376 157 388 174 392 190 M431 127 C449 140 463 155 475 168"/>
+<path d="M900 59 C865 62 838 80 807 95 M884 95 C852 108 825 126 801 146 M854 143 C839 157 827 175 823 193 M781 121 C761 132 745 146 731 158"/>
+</g>
+<g fill="none" stroke="#f6dfd0" stroke-width="2" opacity=".5" stroke-linecap="round">
+<path d="M333 44 C367 51 392 72 418 87 M346 106 C374 119 393 136 410 153 M885 53 C851 61 827 78 801 90 M866 108 C837 120 818 137 800 153"/>
+</g>
+</svg>
