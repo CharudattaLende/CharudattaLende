@@ -76,13 +76,14 @@ I also enjoy working with AI/ML, LLMs and AI agents, solving Data Structures & A
 
 ---
 
-## 🔗 Contribution
+## 📊 GitHub Contribution Calendar
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/409ba5/CharudattaLende" width="100%" alt="Charudatta's GitHub contribution heatmap" />
+<!-- This heatmap is generated from the contribution activity on the GitHub profile. -->
+<img src="https://ghchart.rshah.org/409ba5/CharudattaLende" width="100%" alt="Live GitHub contribution calendar for CharudattaLende" />
 
-<a href="https://github.com/CharudattaLende?tab=overview">View all GitHub activity</a>
+<p><a href="https://github.com/CharudattaLende">Open the original GitHub profile contribution calendar →</a></p>
 
 </div>
 
