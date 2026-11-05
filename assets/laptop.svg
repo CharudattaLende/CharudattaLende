@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" role="img" aria-labelledby="title desc">
+<title id="title">Laptop illustration</title><desc id="desc">A white engraved laptop with code on its screen.</desc>
+<rect width="320" height="260" rx="8" fill="#17191f"/>
+<rect x="10" y="10" width="300" height="240" fill="none" stroke="#343943"/>
+<g fill="#252a33" stroke="#f1f1ed" stroke-width="4" stroke-linejoin="round">
+<path d="M76 42 Q78 34 88 34 H242 Q252 34 254 44 L267 174 H62 Z"/>
+<path d="M62 174 H267 L294 203 Q297 211 286 214 H35 Q23 211 28 202 Z"/>
+</g>
+<rect x="78" y="48" width="174" height="115" fill="#0b0d12" stroke="#9ea2a5" stroke-width="2"/>
+<g stroke="#e7e7e2" stroke-width="2" stroke-linecap="round">
+<path d="M96 69 H142 M96 82 H179 M110 95 H202 M96 108 H154 M110 121 H188 M96 134 H164"/>
+</g>
+<g fill="#a8b4c8">
+<circle cx="88" cy="69" r="3"/><circle cx="88" cy="82" r="3"/><circle cx="102" cy="95" r="3"/><circle cx="88" cy="108" r="3"/><circle cx="102" cy="121" r="3"/>
+</g>
+<g fill="none" stroke="#d9d9d4" stroke-width="1.8">
+<path d="M54 185 L276 185 M49 193 L282 193 M43 201 L288 201"/>
+<rect x="123" y="190" width="74" height="15" rx="3"/>
+</g>
+<g stroke="#777e89" stroke-width="1">
+<path d="M76 179 L244 179 M83 184 L237 184"/>
+</g>
+</svg>
