@@ -80,12 +80,12 @@ I also enjoy working with AI/ML, LLMs and AI agents, solving Data Structures & A
 
 <div align="center">
 
-<!-- Live line graph generated from CharudattaLende's GitHub activity. -->
+<!-- Activity graph using the project's documented, minimal URL format. -->
 <a href="https://github.com/CharudattaLende">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharudattaLende&bg_color=000000&color=ffffff&title_color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Charudatta's%20Contribution%20Graph&days=31&height=300" width="100%" alt="Charudatta's GitHub contribution activity line graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CharudattaLende&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Charudatta's GitHub contribution activity graph" />
 </a>
 
-<p><sub>Live activity graph · Last 31 days · Click the graph to visit my GitHub profile</sub></p>
+<p><sub>Live GitHub activity · Last 31 days</sub></p>
 
 </div>
 
